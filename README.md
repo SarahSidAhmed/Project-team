@@ -54,3 +54,6 @@ To Add a domain name you need a credit of at least 12$</br></br>
 Note that you pay around 11.99$/year for the Domain name on Azure.</br></br></br>
 
 
+<h3><b>And now you have a general understanding of Microsoft Azure Static App Deployment! 💻</b></h3>
+
+
