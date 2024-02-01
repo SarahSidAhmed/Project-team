@@ -1,4 +1,4 @@
-MLSA Portfolio Project with Microsfot Azure tool
+<h1> <b>MLSA Portfolio Project with Microsfot Azure tool </b></h1>
 
 This is a simple resume that you can customize.
 This resume was built with simple HTML, CSS and a touch for Javascript.
