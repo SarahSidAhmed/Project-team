@@ -26,7 +26,7 @@ Here is how the Website looks like: https://gentle-pebble-0f2d21503.4.azurestati
 </br>
 
 
-1- Go Microsoft Azure Platform.</br></br>
+1- Go Microsoft Azure Platform.    https://portal.azure.com   </br></br>
 2- Create your account.</br></br>
 3- Go to Ressource Group and fill out the infomation, give it a name like "Portfolio"</br></br>
 4- Got to the search bar and type "Static Web App" </br></br>
@@ -37,7 +37,7 @@ Here is how the Website looks like: https://gentle-pebble-0f2d21503.4.azurestati
 9- Link the repository where your html file is located</br></br>
 10- Push Create</br></br></br></br>
 
-Now go to your Ressource group and select "Portfolio" and you'll find all the details concerning your project including the URL of the Deployed Website.</br></br></br>
+---->Now go to your Ressource group and select "Portfolio" and you'll find all the details concerning your project including the URL of the Deployed Website.</br></br></br>
 
 
 
