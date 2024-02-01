@@ -7,9 +7,9 @@ This is a simple resume that you can download to your own repository and customi
 This resume was built with:
 </br>
 <ul>
-  <item>HTML</item>
-  <item>CSS</item>
-  <item>JAVASCRIPT</item>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JAVASCRIPT</li>
 </ul>
 
 
