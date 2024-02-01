@@ -9,7 +9,7 @@ This resume was built with:
 <ul>
   <li>HTML</li>
   <li>CSS</li>
-  <li>JAVASCRIPT ![image](https://github.com/SarahSidAhmed/Project-team/assets/109920075/62fb9050-4cce-4881-ab3d-046b9a045525) </li>
+  <li>JAVASCRIPT</li>
 </li>
 </ul>
 
