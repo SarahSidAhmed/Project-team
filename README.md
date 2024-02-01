@@ -9,7 +9,7 @@ This resume was built with:
 <ul>
   <li>HTML</li>
   <li>CSS</li>
-  <li>JAVASCRIPT</li>
+  <li>JAVASCRIPT<i class="fa-brands fa-js"></i></li>
 </li>
 </ul>
 
