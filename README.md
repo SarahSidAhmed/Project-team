@@ -41,7 +41,7 @@ Now go to your Ressource group and select "Portfolio" and you'll find all the de
 
 
 
-<h1><b>BONUS: ADD A CUSTOM DOMAIN NAME TO YOUR WEBSITE</b></h1></br></br>
+<h2><b>BONUS: ADD A CUSTOM DOMAIN NAME TO YOUR WEBSITE</b></h2></br></br>
 
 </br>
 1- Select your "Portfolio" ressource group (Or whatever you named it)</br></br>
