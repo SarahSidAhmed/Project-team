@@ -27,9 +27,11 @@ Here is how the Website looks like: https://gentle-pebble-0f2d21503.4.azurestati
 </br>
 
 
+
 1- Go Microsoft Azure Platform.    https://portal.azure.com   </br></br>
 2- Create your account.</br></br>
 3- Go to Ressource Group and fill out the infomation, give it a name like "Portfolio"</br></br>
+<img width="960" alt="Screenshot 2024-02-02 114634" src="https://github.com/SarahSidAhmed/Project-team/assets/109920075/b9c99718-033f-4f87-8c6b-e9b93aac46ff"></br></br>
 4- Got to the search bar and type "Static Web App" </br></br>
 5- Select the product "Static Web App"</br></br>
 6- Fill the infomation</br></br>
